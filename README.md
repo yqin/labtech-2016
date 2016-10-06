@@ -1,1 +1,1 @@
-Coentents for LabTech 2016.
+Slides for Jupyter Notebook @LabTech2016.
